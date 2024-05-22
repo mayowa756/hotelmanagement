@@ -1,0 +1,96 @@
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+th,td{
+    text-align: center;
+    padding: 10px;
+    border: 2px rgb(44, 24, 153) solid;
+}
+th{
+    background-color: rgb(50, 140, 192);
+}
+.heading{
+    padding: 7px;
+    width: 5px;
+    padding-inline-start: 100;    
+}
+.wave{
+    color: blue;
+    
+}
+
+nav ul {
+    list-style-type: none;
+    background-color: rgba(6, 27, 46, 0.664);
+    /* background-color: transparent; */
+    padding: 0px;margin: 0px;
+
+}
+nav li {
+    display: inline;
+    margin-right: 10px;
+
+}
+nav a{
+    display: inline-block;
+    columns: white;
+    text-decoration: none;
+    padding: 14px 16px;
+    
+}
+
+nav a:hover{
+    background-color: rgb(64, 110, 236);
+}
+.grace{
+    color: rgb(74, 13, 131);
+    padding: 1opx;
+    width: 10;
+    padding-right: 50px;
+    text-align: center;
+}
+
+/*Hero Banner*/
+.container {
+    background-image: url(/image/imagess.jpg);
+    background-size: cover;
+    padding: 2em;
+    color: white;
+    /* opacity: 0.5; */
+  }
+
+  .grace {
+    text-align: center;
+    margin-top: 30px;
+  }
+.ptext{
+text-wrap: 25;
+text-align: center;
+color: black;
+opacity: 100%;
+}
+.tidy{
+    color: black;
+}
+.cross{
+    color: rgb(153, 18, 18);
+    margin-top: 10%;
+    text-align: center;
+}
+/* .medge{
+   margin-top: 3px; 
+   margin-left: 1650px;
+   color: green;
+}
+.role{
+    /* margin-top: 300px */ 
+.drag{
+    margin-left: 700px;
+}
+
+.phone{
+    width: 20em;
+    padding: ;
+}
+
